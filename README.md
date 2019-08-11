@@ -1,2 +1,4 @@
 # py-thin-plate-spline
-Code for computing interpolating / approximating thin plate spline surfaces.  Fixed bug of duplicated file name(numpy.py &amp; pytorch.py)
+
+Code for computing interpolating / approximating thin plate spline surfaces.
+See [TPS.ipynb](TPS.ipynb) for code and illustrations.
